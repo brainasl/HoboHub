@@ -1,5 +1,3 @@
--- Press X to fly
-
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 local flying = false
